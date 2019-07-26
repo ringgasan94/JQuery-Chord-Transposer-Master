@@ -32,6 +32,6 @@ span.c {
 	outline: none;
 }
 .transpose-keys a.selected { 
-  background: #2159D6; 
+  background: #000000; 
   color: #FFF;
 }
