@@ -10,7 +10,7 @@
  */
 span.c { 
   font-weight: bold; 
-  color: #000000;
+  color: #000;
 }
 
 .transpose-keys {
@@ -24,14 +24,14 @@ span.c {
 	width: 2.25em;
 	text-align: center;
 	margin: 0 .25em .25em 0;
-	color: #000000;
-	background: #FFFFFF;
+	color: #FFF;
+	background: #000;
 	text-decoration: none;
 	padding: .4em 0;
 	border: solid 1px transparent;
 	outline: none;
 }
 .transpose-keys a.selected { 
-  background: #000000; 
-  color: #FFFFFF;
+  background: #FFF; 
+  color: #000;
 }
