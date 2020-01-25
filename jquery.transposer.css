@@ -9,7 +9,7 @@ span.c {
 .transpose-keys {
 	margin: 10px 0;
 	overflow: auto;
-	font: normal 11px sans-serif; line-height: 20px;
+	font: normal 11px sans-serif; line-height: 10px;
 }
 .transpose-keys a { 
 	display: block;
