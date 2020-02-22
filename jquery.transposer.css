@@ -3,7 +3,7 @@
  */
 span.c { 
   font-weight: bold; 
-  color: #000000;
+  color: #FFDD40;
 }
 
 .transpose-keys {
@@ -17,8 +17,8 @@ span.c {
 	width: 2.25em;
 	text-align: center;
 	margin: 0 .25em .25em 0;
-	color: #333;
-	background: #eee;
+	color: #000;
+	background: #f90;
 	text-decoration: none;
 	padding: .4em 0;
 	border: solid 1px transparent;
