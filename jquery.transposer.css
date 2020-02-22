@@ -3,9 +3,8 @@
  */
 span.c { 
   font-weight: bold; 
-  color: #FFFFFF;
-}
-
+  color: #ffdd40;
+  }
 .transpose-keys {
 	margin: 10px 0;
 	overflow: auto;
@@ -13,18 +12,19 @@ span.c {
 }
 .transpose-keys a { 
 	display: block;
+	font-weight: bold;
 	float: left;
 	width: 2.25em;
 	text-align: center;
 	margin: 0 .25em .25em 0;
-	color: #333;
-	background: #FFF;
+	color: #000;
+	background: #666;
 	text-decoration: none;
 	padding: .4em 0;
 	border: solid 1px transparent;
 	outline: none;
 }
 .transpose-keys a.selected { 
-  background: #FFDD40; 
-  color: #FFF;
+  background: #ffdd40; 
+  color: #000000;
 }
